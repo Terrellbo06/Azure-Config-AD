@@ -9,10 +9,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- PowerShell
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
+- Microsoft Azure (Virtual Machines/Compute)
+
 
 <h2>Operating Systems Used </h2>
 
