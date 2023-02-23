@@ -70,7 +70,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/C0dlvC7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 6.
@@ -78,7 +78,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/HmjKnIL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 7.
@@ -86,7 +86,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/2CcVqOp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 8.
@@ -94,7 +94,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/LU21u5Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 9.
@@ -102,7 +102,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Xklu4PJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 10.
@@ -110,7 +110,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/b4ruEGz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 11.
@@ -118,7 +118,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Ou2hw8A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 12.
@@ -126,7 +126,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/yfvmKXl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 13.
@@ -134,7 +134,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/hV38MqF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 14.
@@ -142,7 +142,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5CPghKW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 15.
