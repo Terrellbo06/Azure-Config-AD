@@ -36,15 +36,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://imgur.com/z1I0JEH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1.)
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/vaAbOOA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-2.) First step is to create to two Azure virtual machines.
+1.) First step is to create to two Azure virtual machines.
 
 The first virtual machine is the domain controller (DC-1) which will have Windows Server 2022. A domain controller is the main server computer network that gives access to its domain resources and authenticates users that are connected to it. 
 
@@ -52,6 +44,22 @@ The second virtual machine is the client (Client-1) which will have Windows 10. 
 
 Keep in mind: Ensure that Client-1 is on the same virutal network as DC-1. This is normally automatically done under the "Networking" tab but double check.
 </p>
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/vaAbOOA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+2.) Next is to ensure DC-1's private IP address is changed from dynamic to static. DC-1's private IP address needs to be static so it does not change during the course of this exercise.
+To do this, go to DC-1's "Networking" section and click on the virtual Network Interface Card (NIC). (IP Config.. click private IP address.. assignment button and switch from dynamic to static..
+
+Second step is establish connectivity between Client-1 and DC-1. Use Microsoft Remote Desktop to connect to both virtual machines. 
+Open Client-1 and open the Command line. Type in the command "ping -t" + the private IP address of DC-1. In this case, it is 10.0.0.4. The "ping -t" command will continously ping DC-1.Next is to ensure DC-1's private IP address is changed from dynamic to static. DC-1's private IP address needs to be static so it does not change during the course of this exercise.
+To do this, go to DC-1's "Networking" section and click on the virtual Network Interface Card (NIC). (IP Config.. click private IP address.. assignment button and switch from dynamic to static..
+
+Second step is establish connectivity between Client-1 and DC-1. Use Microsoft Remote Desktop to connect to both virtual machines. 
+Open Client-1 and open the Command line. Type in the command "ping -t" + the private IP address of DC-1. In this case, it is 10.0.0.4. The "ping -t" command will continously ping DC-1.
 <br />
 
 <p>
@@ -66,7 +74,9 @@ Keep in mind: Ensure that Client-1 is on the same virutal network as DC-1. This 
 <img src="https://imgur.com/aYJepmI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4.
+4.) Due to the firewall blocking incoming Internet Control Message Protocol (ICMP) traffic, the request is timing out. To fix this, login into DC-1 and open the application Windows Defender Firewall with Advanced Security from the Start menu.
+
+
 </p>
 <br />
 
