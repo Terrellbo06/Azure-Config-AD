@@ -44,7 +44,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://imgur.com/vaAbOOA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2.
+2.) First step is to create to two Azure virtual machines. If don't know how to create a virtual machine in Azure, please see my tutorial [here](https://github.com/klcarpio/Create-an-Azure-Account-and-Deploy-a-Virtual-Machine).
+
+The first virtual machine is the domain controller (DC-1) which will have Windows Server 2022. A domain controller is the main server computer network that gives access to its domain resources and authenticates users that are connected to it. 
+
+The second virtual machine is the client (Client-1) which will have Windows 10. The client is just any computer connected to the domain controller. 
+
+Keep in mind: Ensure that Client-1 is on the same virutal network as DC-1. This is normally automatically done under the "Networking" tab but double check.
 </p>
 <br />
 
